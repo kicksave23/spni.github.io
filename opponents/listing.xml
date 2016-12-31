@@ -8,6 +8,7 @@
 
 	<!-- Individual Listings -->
 	<individuals>
+<individuals>
 		<opponent>rosalina/</opponent>
 		<opponent>daisy/</opponent>
 		<opponent>wiifitfemale/</opponent>
@@ -41,7 +42,13 @@
 		<opponent>may/</opponent>
 		<opponent>sheena/</opponent>
 		<opponent>tracer/</opponent>
+		<opponent>mercy/</opponent>
+		<opponent>mia/</opponent> 
 		<opponent>fred/</opponent>
+		<opponent>harley/</opponent>
+		<opponent>samus/</opponent>
+		<opponent>chell/</opponent>
+		<opponent>leela/</opponent>
 	</individuals>
 		
 	<!-- Group Listings -->
